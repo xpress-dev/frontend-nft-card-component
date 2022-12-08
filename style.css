@@ -58,6 +58,7 @@ body {
   background-color: var(--primary-cyan);
   border-radius: 7px;
   backface-visibility: hidden;
+  height: 290px;
 }
 
 .container:hover .eye {
